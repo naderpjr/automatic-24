@@ -219,50 +219,14 @@ body {
 }
 
 
-/* gallery  */
-
-/* .automation-gallery {
-  width: 100%;
-  height: auto;
-  padding: 30px;
-  margin: 30px 0;
-}
-
-.gallery {
-  width: 100%;
-  height: 300px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.gallery img {
-  width: 20%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 10px;
-  border: 2px solid #fff;
-  transition: all ease-out 0.5s;
-  cursor: pointer;
-  overflow: hidden;
-}
-
-.gallery img:hover {
-  width: 30%;
-}
-
-@media (max-width: 1170px){
-  .gallery {
-    height: 150px;
-  }
-} */
+/* .automation-gallery */
 
 .automation-gallery {
   width: 100%;
   height: auto;
   padding: 30px;
   margin: 30px 0;
-  box-sizing: border-box; /* برای اطمینان از رفتار مناسب در سایزهای مختلف */
+  box-sizing: border-box;
 }
 
 .gallery {
